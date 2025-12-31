@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 [My Current Home Lab] (https://i.imgur.com/qhf77X1.png)</h2>
 
-<h1>🎯 Cyber Security Projects </h1>
+<h1>✅Cyber Security Projects </h1>
 
 - <b>SIEM Deployment (Integration, Configuration, Log Analysis, Attack Simulation & Active Response)</b>
   - [Wazuh SIEM](https://github.com/EeBbEeNn/Wazuh-SIEM-LAB) ✔️
@@ -20,7 +20,7 @@
 - <b>[ CFSS Cyber Security & Ethical Hacking Projects](Stegnography,Nmap,Metasploit, Incidence Response Plan)</b>
    - [Ebenezer CFSS Cyber Security & Ethical Hacking Projects](https://docs.google.com/document/d/1xZXMpvTM2Njc-i0n90gyS0P0-eO0On5w9BvkFAiA5xI/edit?usp=drive_link) ✔️
 
-<h1>🎯 Artificial Intelligence || AI Projects, Courses & AI Knowledge</h1>
+<h1>✅Artificial Intelligence || AI Projects, Courses & AI Knowledge</h1>
 
 - [Artificial Intelligence Fundamentals Playlist](https://www.youtube.com/playlist?list=PLOspHqNVtKADfxkuDuHduUkDExBpEt3DF) ✔️
 - [AI Governance & Security Certification](https://education.securiti.ai/verification/13F46D8E6-13F46B42D-13922980C/) ✔️
@@ -38,7 +38,7 @@
 
 
 
-<h1>🎯 AWS Cloud || Courses & Projects</h1>
+<h1>✅AWS Cloud || Courses & Projects</h1>
 
 - <b>Fundamentals of AWS Cloud || AWS Services || AWS Management Console</b>
   - [AWS Cloud Security Fundamentals Course](https://explore.skillbuilder.aws/learn/courses/48/aws-security-fundamentals-second-edition) 
