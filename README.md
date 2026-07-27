@@ -1,5 +1,6 @@
 <h2>Ebenezer Aibor <br/> <a href="https://www.linkedin.com/in/ebenezer-aibor-454257225">Cybersecurity Engineer || SOC Analyst|| AI Security & Governance </a>
 
+
 <h2> ✅Cyber Security (Certifications & Projects) </h2>
 
 - <b> SIEM Deployment (Integration, Configuration, Log Analysis, Attack Simulation & Active Response)</b>
@@ -32,7 +33,7 @@
   - [AWS Cloud Security Fundamentals Course](https://explore.skillbuilder.aws/learn/courses/48/aws-security-fundamentals-second-edition) 
   - [AWS Cloud Practitioner Essentials Course](https://explore.skillbuilder.aws/learn/courses/134/aws-cloud-practitioner-essentials)
 
-- <b> AWS CLOUD (LOAD BALANCING & AUTOSCALING PROJECT) </b>
+- <b> AWS Load Balancing & Autoscaling </b>
   - [AWS Elastic Load Balancer and Auto-Scaling with EC2 Project](https://github.com/EeBbEeNn/AWS-ELB-Auto-Scaling-Project) ✔️
 
 
