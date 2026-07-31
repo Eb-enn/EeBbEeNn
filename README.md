@@ -6,8 +6,8 @@
 - <b> SIEM Deployment (Integration, Configuration, Log Analysis, Attack Simulation & Active Response)</b>
   - [Wazuh SIEM](https://github.com/EeBbEeNn/Wazuh-SIEM-LAB) ✔️
   - [IBM Qradar SIEM](https://github.com/EeBbEeNn/IBM-Qradar-CE-/tree/main) ✔️
-  - [Rapid7 InsightIDR SIEM] (in progress..)
-  - [Microsoft Sentinel] (in view..)
+  - [Rapid7 InsightIDR SIEM] (Done in Prod)
+  - [Arcsight SIEM] (Done in Prod)
   
 - <b> Active Directory (Setup & Configuration) </b>
   - [Windows Server 2025 Active Directory] (in view..)
